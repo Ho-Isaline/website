@@ -1,0 +1,14 @@
+.bg-info {
+    background-color: #6cacb6!important;
+}
+.btn-outline-light {
+    color: #856a17;
+    border-color: #ecbc2b;
+}
+.navbar-dark .navbar-brand {
+    color: #e36161;
+}
+.form-control {   
+     background-color: #98cba3;
+     border: 1px solid #3c824c;
+}

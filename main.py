@@ -19,6 +19,3 @@ def bookshelf(x):
         i.close()
         l.append((name, book))
     return render_template("bookshelf.html", j = l)
-server.run(debug = True,
-            host = "0.0.0.0",
-            port = "3000")
